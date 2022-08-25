@@ -28,7 +28,7 @@ Please also include a README file in your submission with the following:
 
 # Support
 
-If you have clarification questions or are in need of any assistance, don’t hesitate to reach out! Feel free to email [board@pennaerial.com](mailto:board@pennaerial.com).
+You should also feel free to reach out to [anpans@seas.upenn.edu](mailto:anpans@seas.upenn.edu) or [daveshv@seas.upenn.edu](mailto:daveshv@seas.upenn.edu) if you are stuck and need some assistance.
 
 
 # Resources
