@@ -6,7 +6,7 @@
 
 Welcome to the 2022 Penn Aerial Robotics software challenge! The goal of this challenge is not only for the board to best assess your fit for the software team, but also for you to get a taste for the types of projects that you will be asked to tackle as a member of the team.
 
-Take however long you want to work on the challenge. If you can’t complete the full challenge, don’t worry—it’s meant to be difficult. Remember we are looking for commitment and willingness to learn, not previous knowledge, so don’t get discouraged if you’re having trouble. We’ve provided resources below to help you and are looking for you to give this your best effort. Submit however much you can complete. Be **prepared** to talk about your code and to explain how you arrived at your solution.
+Take however long you want to work on the challenge. If you can’t complete the full challenge, don’t worry—it’s meant to be difficult. Remember we are looking for commitment and willingness to learn, not previous knowledge, so don’t get discouraged if you’re having trouble. We’ve provided resources below to help you and are looking for you to give this your best effort. **Submit however much you can complete.** Be prepared to talk about your code and to explain how you arrived at your solution.
 
 
 # Submission
@@ -33,7 +33,7 @@ You should also feel free to reach out to [anpans@seas.upenn.edu](mailto:anpans@
 
 # Resources
 
-Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of navigation and obstacle avoidance. A large part of being on this team is learning how to do research and figure things out. We strongly suggest using **Python** as that is the main coding language at PennAir. You can use whatever guides you find online, and whatever libraries you want. However, be ready to explain how your code works. Commenting your code is also good practice and can help us (and you) understand what you’re doing. You might find the following websites useful:
+Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of navigation and obstacle avoidance. A large part of being on this team is learning how to do research and figure things out. We strongly suggest using **Python** as that is the main coding language at PennAir. You can use whatever guides you find online, and whatever libraries you want. However, you must fully understand how your code works because you will be asked to explain it. Commenting your code is also good practice and can help us (and you) understand what you’re doing. You might find the following websites useful:
 
 (Short tutorial on how to read JSON files with Python)
 
