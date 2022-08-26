@@ -33,7 +33,7 @@ You should also feel free to reach out to [anpans@seas.upenn.edu](mailto:anpans@
 
 # Resources
 
-Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of navigation and obstacle avoidance. A large part of being on this team is learning how to do research and figure things out. You can use whatever guides you find online, whatever libraries you want, and **any programming language**. However, be ready to explain how your code works. Commenting your code is also good practice and can help us (and you) understand what you’re doing. You might find the following websites useful:
+Feel free to use whatever outside resources you wish. In fact, we highly recommend that you do research into the subject of navigation and obstacle avoidance. A large part of being on this team is learning how to do research and figure things out. We strongly suggest using **Python** as that is the main coding language at PennAir. You can use whatever guides you find online, and whatever libraries you want. However, be ready to explain how your code works. Commenting your code is also good practice and can help us (and you) understand what you’re doing. You might find the following websites useful:
 
 (Short tutorial on how to read JSON files with Python)
 
@@ -60,7 +60,7 @@ You should also feel free to reach out to [anpans@seas.upenn.edu](mailto:anpans@
 
 # The Challenge
 
-Previously, at the AUVSI 2022 competition, one of our challenges was to identify and navigate through waypoints, around obstacles, and inside the boundaries. The task presented to you is a simplified version of the competition. We strongly suggest using Python as that is the main coding language at PennAir. Other than that, we encourage finding your own solutions to these challenges.
+Previously, at the AUVSI 2022 competition, one of our challenges was to identify and navigate through waypoints, around obstacles, and inside the boundaries. The task presented to you is a simplified version of the competition. 
 
 **Please find the JSON file provided for this task under the “data” folder.**
 
@@ -95,3 +95,4 @@ Hint: This is a variation of the traveling salesman problem. To ensure that your
 We will leave this part open ended. Your goal is to create a plot of the waypoints by either converting the latitude longitude coordinates to a flat x y grid. (Obviously there is curvature on Earth, but for the sake of simplicity we want you to plot this data on a linear basis). Then based on the minimum values of **flyZones** coordinates, which is the origin of the map. Set minLat and minLong as the minimum latitude and longitude for the flyZones. Note: These values do not have to be from the same coordinate.
 
 From there, create a function for each waypoint, setting x equal to the distance between the waypoint and minLat with waypoint longitude. Similarly, set y equal to the distance between the waypoint and waypoint lat with minLong. With these points, use matplotlib or another library to map out the coordinates.
+Include this image along with your code in your final ZIP submission.
